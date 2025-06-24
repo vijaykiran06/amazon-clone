@@ -1,2 +1,17 @@
-# amazon-clone
-Amazon Clone Website A front-end clone of Amazon’s homepage built using only HTML5 and CSS3. This project replicates the core structure and styling of Amazon, including a responsive header, product sections, banners, and footer. 
+
+# 🛒 Amazon Clone Project
+
+A simple front-end Amazon clone built using **HTML** and **CSS** only.
+
+## 🚀 Live Demo
+👉 (https://your-username.github.io/amazon-clone)
+
+## 📂 Project Features
+- 🖼️ Product layout similar to Amazon
+- 📱 Fully responsive (works on mobile and desktop)
+- 🎨 Clean UI with CSS styling
+
+## 📁 Tech Used
+- HTML5
+- CSS3
+
