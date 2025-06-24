@@ -4,7 +4,7 @@
 A simple front-end Amazon clone built using **HTML** and **CSS** only.
 
 ## 🚀 Live Demo
-👉 (https://your-username.github.io/amazon-clone)
+👉 https://vijaykiran06.github.io/amazon-clone/
 
 ## 📂 Project Features
 - 🖼️ Product layout similar to Amazon
